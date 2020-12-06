@@ -1,0 +1,27 @@
+{
+  "name": "node_server_express_etc",
+  "version": "1.0.0",
+  "description": "it's pilot project\r . nodeJS's Back-end function\r . implement Web server function  \r . connect DB\r . implement Passport logic\r . using JSON and RESTful API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoonng/node_server_express_etc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoonng/node_server_express_etc/issues"
+  },
+  "homepage": "https://github.com/yoonng/node_server_express_etc#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.6",
+    "orientjs": "^3.0.11"
+  }
+}
